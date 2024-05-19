@@ -6,4 +6,4 @@ und hier gleich eine tabelle
 2. und einem zweiten Eintrag
 es geht sogar *kursiv*
 und in **fett** schrift
-es fällt mir auf, dass zwei sternchen+Weot+ein sternchen ein **kursv* Test macht. komisch
+es fällt mir auf, dass zwei sternchen+Wort+ein sternchen ein **kursv* Test macht. komisch
